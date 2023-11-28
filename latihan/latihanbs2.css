@@ -1,0 +1,57 @@
+.navbar1{
+    /* background-color: aqua; */
+    justify-content: center;
+}
+.navbar1-menu{
+    /* background-color: yellowgreen; */
+    text-align: center;
+    
+}
+.navbar1-menu:hover{
+    background-color: yellow;
+
+}
+
+.navbar1-menu a{
+    text-decoration: none;
+    color: black;
+}
+
+.main1-img{
+    text-align: center;
+    display: block;
+}
+.main1-img img{
+    width: 500px;
+
+}
+
+/* .row-main2{
+    display:inline-block;
+    text-align: center;
+    align-items: center;
+    margin-right: 10px;
+    background-color: yellowgreen;
+} */
+/* option1 */
+.main2-img1 img{
+    width: 400px;
+}
+.main2-img1{
+    display: block;
+    text-align: center;
+    /* background-color: aqua; */
+    /* width: 400px; */
+}
+/* option1 end */
+/* option2 */
+.content{
+    display: block;
+    text-align: center;
+    background-color: aqua;
+    /* width: 400px; */
+}
+/* option2 end */
+.footer1{
+    text-align: center;
+}

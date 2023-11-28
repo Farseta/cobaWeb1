@@ -1,0 +1,12 @@
+/* 
+body{
+    background-color: aqua;
+} */
+
+.panel-form{
+    
+    /* padding-top: 200px; */
+   
+    box-shadow: 3px 5px 5px black;
+    margin: 300px;
+}
